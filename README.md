@@ -8,6 +8,8 @@
   <p align="center">
 Cette addon sert à augmenter le niveau de roleplay sur vos serveurs.
     <br/>
+</div>
+
     
 ## ⚙️ How-To setup 
     - Dans la racine /addons
