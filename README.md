@@ -18,7 +18,7 @@ Cette addon sert à augmenter le niveau de roleplay sur vos serveurs.
 - Crée un nouveau fichier nomée "roll"
 - Glissez-y le fichier lua
  
- ### 📚 Fonctions utiles 
+ ## 📚 Fonctions utiles 
  ```lua
 ROLLCONF = { 
 tchatmsg = " obtient un résultat de : ",
