@@ -15,7 +15,7 @@ Cette addon sert à augmenter le niveau de roleplay sur vos serveurs.
 ## 📷 Images 
 <div align="center">
   <a href="https://github.com/nathack-dev/gmod-rp-roll">
-    <img src="exemple.png" alt="Logo" width="120" height="120">
+    <img src="exemple.png">
   </a>
 </div>
 
@@ -43,5 +43,5 @@ DarkRP.declareChatCommand{
 }
 ```
 Dans le `sv_roll.lua`, vous à pouvez remplacer :                                                                                                                       
-▶️ `description` - Qui va servir à donner la description de la commande `/roll`
+▶️ `description` - Qui va servir à donner la description de la commande `/roll`                                                                                       
 ▶️ `delay` - Fonction qui va définir le délai que le joueur doit attendre avec de refaire la commande.
