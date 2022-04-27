@@ -25,5 +25,6 @@ cmd = "roll"
 
 }
 ```
-Vous pouvez remplacer dans `tchatmsg` le message obtenu lors de l'exécution de la commande.
+
+Vous pouvez remplacer dans `tchatmsg` le message obtenu lors de l'exécution de la commande.           
 ⚠️ Laisser le vide après le guillemet, le joueur qui aurait exécuté la commande apparéteras dans ce vide.
