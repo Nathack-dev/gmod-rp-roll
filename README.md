@@ -7,14 +7,12 @@
 
   <p align="center">
 Cette addon sert à augmenter le niveau de roleplay sur vos serveurs.
-    <br />
+    <br/>
     
 ## ⚙️ How-To setup 
     - Dans la racine /addons
     - Crée un nouveau fichier nomée "roll"
     - Glissez-y le fichier lua
-    
-<br>
     
  ```lua
 ROLLCONF = { 
