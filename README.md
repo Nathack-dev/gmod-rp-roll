@@ -42,6 +42,6 @@ DarkRP.declareChatCommand{
 	delay = 1.5
 }
 ```
-Dans le `sv_roll.lua`, vous à pouvez remplacer :      
+Dans le `sv_roll.lua`, vous à pouvez remplacer :                                                                                                                       
 ▶️ `description` - Qui va servir à donner la description de la commande `/roll`
 ▶️ `delay` - Fonction qui va définir le délai que le joueur doit attendre avec de refaire la commande.
